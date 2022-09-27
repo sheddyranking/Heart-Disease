@@ -66,7 +66,9 @@ This is where you'll get different information about each of the features in the
 
 ## Conclusion & Experiment
 from the Experiment, `Logistic Regression` prove to be more efficicient for the  classification problem after Evaluation with an accuracy of 88%.
+
 ![models](https://user-images.githubusercontent.com/42388234/192561772-f682d2bc-36af-42c6-a2d6-1ead5f9a2c7e.png)
 
 Also the Diagram below shows `cp(chest pain type)` had a greater `feature importance`( i.e which feature contributed  most to the outcomes of the model)
+
 ![fp](https://user-images.githubusercontent.com/42388234/192561773-ef673a83-686f-4d0a-ba41-be8ef6186049.png)
