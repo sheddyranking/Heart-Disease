@@ -72,3 +72,7 @@ from the Experiment, `Logistic Regression` prove to be more efficicient for the 
 Also the Diagram below shows `cp(chest pain type)` had a greater `feature importance`( i.e which feature contributed  most to the outcomes of the model)
 
 ![fp](https://user-images.githubusercontent.com/42388234/192561773-ef673a83-686f-4d0a-ba41-be8ef6186049.png)
+
+
+## Download traind logistic regression model here :
+https://github.com/sheddyranking/Heart-Disease/tree/main/Model
